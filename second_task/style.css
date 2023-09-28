@@ -1,0 +1,19 @@
+/* body{
+    width: 100px;
+} */
+.content{
+    width: 50%;
+    border: 5px solid;
+    margin: auto;
+    padding: auto;
+
+}
+.header{
+    text-align: center;
+    margin-top: 5px;
+    color: blue;
+}
+.list_content{
+    text-align: left;
+    
+}
