@@ -1,0 +1,17 @@
+.content{
+  border-collapse: collapse;
+  width: 100%;
+}
+.content td,.content th {
+    border: 1px solid #707070;
+    padding: 8px;
+}
+.content th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+  
